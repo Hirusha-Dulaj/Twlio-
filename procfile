@@ -1,1 +1,1 @@
-worker: send_whtaapp_image.py
+worker: main.py
