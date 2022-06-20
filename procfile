@@ -1,1 +1,1 @@
-bot: send_whtaapp_image.py
+worker: send_whtaapp_image.py
